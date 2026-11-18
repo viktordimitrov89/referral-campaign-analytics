@@ -168,7 +168,7 @@
 
 | Констатация | Файл с резултатите |
 |---|---|
-| **40 записа** съдържат `INVITER_ID`, който не съвпада с клиент в `CLIENTS`. | 📊 `02_REFERRALS_Invalid_Inviter_Review.csv` |
+| **40 записа** съдържат `INVITER_ID`, който не съвпада с клиент в `CLIENTS`. | 📊 `REFERRALS_Invalid_Inviter_Review.csv` |
 | **67 уникални клиента** имат липсваща стойност в `CITY` и/или `GENDER`. | 📊 `CLIENTS – MISSING VALUES REVIEW.csv` |
 | **8 поканили клиенти** имат повече от 5 записа със статус изплатена награда; файлът съдържа детайлите за проверката на тези записи. | 📊 `REFERRALS – MAXIMUM REWARDS DETAIL REVIEW.csv` |
 
