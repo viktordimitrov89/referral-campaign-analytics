@@ -458,6 +458,8 @@ LEFT JOIN OCT_ACTIVE O
 
 Месечният анализ използва `MONTHLY_KPI_CLEAN` и сравнява еднаквите календарни месеци от май до октомври 2025 г. и 2026 г. Резултатите са визуализирани в Tableau Public в dashboard **`FIBANK | MONTHLY PERFORMANCE`**, със заглавие *Business Performance Overview · May–October 2026*.
 
+**Публикуван Tableau dashboard:** [FIBANK | MONTHLY PERFORMANCE – Tableau Public](https://public.tableau.com/app/profile/viktor.dimitrov/viz/FiBank/FibankMonthlyPerformance?publish=yes)
+
 ### Структура на dashboard-а
 
 Dashboard-ът включва четири оперативни KPI карти, четири месечни графики и отделна финансова секция с четири карти.
